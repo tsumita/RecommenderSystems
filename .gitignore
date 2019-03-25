@@ -1,0 +1,7 @@
+# ignore file&directory
+## sample data
+dataset/origin_matrix.csv
+dataset/*.arr
+dataset/del_10per/
+## rakuten data
+rakuten/*.tsv
